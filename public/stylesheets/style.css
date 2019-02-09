@@ -5,10 +5,10 @@
 
 body {
   margin: 0;
-  padding: 0 2vw;
-  height: 100vh;
+  padding: 2vh 2vw;
+  height: 96vh;
   width: 100%;
-  font-size: 2vh;
+  font-size: 4vh;
 }
 
 a {
@@ -55,7 +55,7 @@ header {
 }
 
 main {
-  min-height: 60vh; 
+  min-height: 54vh; 
 }
 
 footer {
