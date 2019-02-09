@@ -48,3 +48,15 @@ li::after {
 li:last-of-type::after {
   content: none
 }
+
+header {
+  min-height: 30vh; 
+}
+
+main {
+  min-height: 60vh; 
+}
+
+footer {
+  min-height: 10vh;
+} 
